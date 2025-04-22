@@ -1,6 +1,6 @@
 # MixMatch
 
-A Python application for generating playlists of similar songs based on two input Spotify tracks.
+A Python application for generating playlists of similar songs based on two input Spotify tracks. It does this by finding the shortest path between the two input songs using either the Djikstra's or A* path finding algorithm.
 
 ## Installation
 
